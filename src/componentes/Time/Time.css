@@ -1,0 +1,16 @@
+.receba { 
+    text-align: center;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.receba h3 {
+    font-size: 32px;
+    
+}
+
+/*grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 1;*/

@@ -1,0 +1,15 @@
+.formulario {
+    display: flex;
+    
+    justify-content: center;
+    
+}
+.formulario form {
+    width: 350px;
+    
+    border-radius: 10px;
+   
+}
+.formulario h2{
+    color: #ffffff;
+}
